@@ -11,6 +11,7 @@ export const Container = styled.header`
     top: 0px;
     flex: 1;
     padding: 0 1.2rem;
+    z-index: 3;
 
     display:flex;
     align-items: center;
