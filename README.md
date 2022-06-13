@@ -50,7 +50,7 @@
 ---
 <h2>Agradecimentos</h2>
 <p>Inicialmente insta agradecer a toda a Equipe do <strong>Carrefour</strong> e da <strong>DIO</strong>, que me proporcionaram uma experiência incrível, visto que foi o primeiro Bootcamp que participei e todo o conhecimento adquirido me ajudou a perceber o quanto gosto de programação, além de fomentar ainda mais minha vontade de aprimorar meu conhecimento na área da tecnologia.</p>
-<p>Gostaria também de agradecer minha grande amiga <strong>Rubria Kritikos</strong> que muito me apoiou durante o planejamento do projeto, compartilhando seu imenso conhecimento em Ui/Ux.</p>
+<p>Gostaria também de agradecer minha grande amiga <strong>Rúbria Kritikos</strong> que muito me apoiou durante o planejamento do projeto, compartilhando seu imenso conhecimento em Ui/Ux.</p>
 
 
 
