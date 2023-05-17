@@ -45,7 +45,7 @@
 ---
 <h2>Desafio Entregue</h2>
 <p>Infelizmente não pude realizar os testes como gostaria, nem entregar o aplicativo totalmente funcional como planejado.</p>
-<p>Entretanto, a pesar dos inúmeros contratempor encontrados durante o desenvolvimento do projeto, preferi entregar o projeto, ao qual dediquei a maior parte do meu tempo nestes últimos dias, com as funcionalidades que tive tempo de implementar a fim de que fosse entregue um MVP ao invés de deixar de participar do desafio.</p>
+<p>Entretanto, apesar dos inúmeros contratempor encontrados durante o desenvolvimento do projeto, preferi entregar o projeto, ao qual dediquei a maior parte do meu tempo nestes últimos dias, com as funcionalidades que tive tempo de implementar a fim de que fosse entregue um MVP ao invés de deixar de participar do desafio.</p>
 <p>Contudo continuarei o desenvolvimento do aplicativo a fim de adquirir novos conhecimentos e praticar ainda mais as tecnologias utilizadas.</p>
 ---
 <h2>Agradecimentos</h2>
